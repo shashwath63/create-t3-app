@@ -76,8 +76,6 @@ export default function Search({ isLanding }: { isLanding: boolean }) {
               strokeLinejoin="round"
             />
           </svg>
-
-          <span>Search</span>
         </div>
 
         <span className="rounded-md border border-current px-1">
